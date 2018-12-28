@@ -1,5 +1,5 @@
 # practica_dos
-Second practice in Inteligencia Artificial (GRAU-IA) at FIB, UPC.
+Second practical assignment in Inteligencia Artificial (GRAU-IA) at FIB, UPC.
 
 The purpose of the program is to make a knowledge-based system (KBS) in CLIPS that creates a training program for elders based on type of disease and physical shape. 
 
